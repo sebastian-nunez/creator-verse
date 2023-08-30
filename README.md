@@ -1,12 +1,22 @@
-# WEB103 Prework - CreatorVerse
+# CreatorVerse
+> A Web App that allows users to find, add, and edit their favorite Content Creators.
 
-Submitted by: **Sebastian Nunez**
+## Video Walkthrough
 
-About this web app: Allows users to find, add and edit their favorite Content Creators.
+Here's a walkthrough of implemented features:
 
-Time spent: 8 hours
+<img src="demo_rec_2.gif" title="Video Walkthrough" width="" alt="Video Walkthrough" />
 
-## Required Features
+<!-- Replace this with whatever GIF tool you used! -->
+
+GIF created with Kap
+
+<!-- Recommended tools:
+[Kap](https://getkap.co/) for macOS
+[ScreenToGif](https://www.screentogif.com/) for Windows
+[peek](https://github.com/phw/peek) for Linux. -->
+
+## Features
 
 The following **required** functionality is completed:
 
@@ -34,21 +44,6 @@ The following **additional** features are implemented:
 - [x] Fully responsive
 - [x] Added a .env to hide API keys
 - [x] Created a 404 page
-
-## Video Walkthrough
-
-Here's a walkthrough of implemented required features:
-
-<img src="demo_rec_2.gif" title="Video Walkthrough" width="" alt="Video Walkthrough" />
-
-<!-- Replace this with whatever GIF tool you used! -->
-
-GIF created with Kap
-
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
 
 ## License
 
