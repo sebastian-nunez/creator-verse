@@ -21,7 +21,7 @@ const Home: React.FC = () => {
   }
 
   useEffect(() => {
-    if (creators.length <= 0) {
+    if (creators?.length <= 0) {
       fetchAll()
     }
   }, [creators])
